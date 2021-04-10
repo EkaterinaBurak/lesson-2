@@ -1,0 +1,101 @@
+h1 {
+    font-family: Raleway;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 100px;
+    
+
+}
+
+h3 {
+    font-family: Open Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: center;
+margin: 30px 0 36px 0;
+
+}
+
+.header {
+    background-color: white;
+    height: 250px;
+width: 1400px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+
+}
+
+
+.line {
+    height: 2px;
+    width: 64px;
+    left: 590px;
+    margin-top: 25px;
+    border-radius: nullpx;  
+background: #E72424;
+position: relative;
+}
+
+.circle {
+    height: 70px;
+width: 70px;
+left: 140px;
+top: 0px;
+border-radius: 50px;
+border: 1px solid #E72424;
+text-align: center;
+position: relative;
+
+}
+
+.container_block {
+    height: 345px;
+width: 1400px;
+left: 0px;
+top: 250px;
+background: white;
+display: flex;
+
+
+}
+
+.container {
+    height: 225px;
+width: 350px;
+margin-left: 150px;
+top: 31px;
+border-radius: 0px;
+margin: 32px 
+
+}
+
+h2 {
+    font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+p{
+    font-family: Open Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: center;
+
+}
